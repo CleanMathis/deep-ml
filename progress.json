@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:33:50.090Z",
+  "generated_at": "2026-11-11T12:33:52.233Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -65,6 +65,58 @@
       "last_pushed_at": "2026-06-14T11:48:09.691Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-06-15T06:00:44.977Z",
+      "last_pushed_at": "2026-06-15T06:00:44.977Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-06-15T06:39:32.228Z",
+      "last_pushed_at": "2026-06-15T06:39:32.228Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-06-15T07:31:38.395Z",
+      "last_pushed_at": "2026-06-15T07:31:38.395Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-06-15T12:54:48.910Z",
+      "last_pushed_at": "2026-06-15T12:54:48.910Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
