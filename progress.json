@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:33:52.233Z",
+  "generated_at": "2026-11-11T12:33:54.325Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -117,6 +117,58 @@
       "last_pushed_at": "2026-06-15T12:54:48.910Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-06-16T06:42:52.202Z",
+      "last_pushed_at": "2026-06-16T06:42:52.202Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-06-16T09:08:44.293Z",
+      "last_pushed_at": "2026-06-16T09:08:44.293Z",
+      "language": "python",
+      "lines": 60
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-06-16T10:04:42.897Z",
+      "last_pushed_at": "2026-06-16T10:04:42.897Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-06-16T12:14:19.880Z",
+      "last_pushed_at": "2026-06-16T12:14:19.880Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
