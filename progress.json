@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:34:15.667Z",
+  "generated_at": "2026-11-11T12:34:17.645Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -299,6 +299,32 @@
       "last_pushed_at": "2026-06-18T11:30:05.795Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-06-19T08:10:19.641Z",
+      "last_pushed_at": "2026-06-19T08:10:19.641Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-06-19T09:37:52.937Z",
+      "last_pushed_at": "2026-06-19T09:37:52.937Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
