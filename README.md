@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-06-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-06-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-06-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-24 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-17 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-06-23 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-06-16 | [solution](problems/0009-matrix-times-matrix) |
