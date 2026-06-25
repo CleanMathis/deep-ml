@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:34:45.361Z",
+  "generated_at": "2026-11-11T12:34:47.151Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -377,6 +377,32 @@
       "last_pushed_at": "2026-06-24T08:52:29.585Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-06-25T06:59:30.947Z",
+      "last_pushed_at": "2026-06-25T06:59:30.947Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-06-25T11:59:56.563Z",
+      "last_pushed_at": "2026-06-25T11:59:56.563Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
