@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 32 problems · 0 labs · 0 math
+**33** solved · 33 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-06-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-06-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-24 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-06-29 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-17 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-06-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-06-23 | [solution](problems/0202-jacobian-matrix-calculation) |
