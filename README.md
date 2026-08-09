@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-07-24 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-06-16 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-10 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-08-09 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-06-21 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-06-13 | [solution](problems/0001-matrix-vector-dot-product) |
