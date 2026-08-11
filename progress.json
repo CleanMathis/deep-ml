@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:35:16.507Z",
+  "generated_at": "2026-11-11T12:35:18.388Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -559,6 +559,52 @@
       "last_pushed_at": "2026-08-10T06:43:15.033Z",
       "language": "python",
       "lines": 8
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-11T06:27:57.226Z",
+      "last_pushed_at": "2026-08-11T06:27:57.226Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-08-11T06:31:50.393Z",
+      "last_pushed_at": "2026-08-11T06:31:50.393Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-11T06:35:25.199Z",
+      "last_pushed_at": "2026-08-11T06:35:25.199Z"
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-08-11T06:42:29.029Z",
+      "last_pushed_at": "2026-08-11T06:42:29.029Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
