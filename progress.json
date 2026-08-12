@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:35:18.388Z",
+  "generated_at": "2026-11-11T12:35:20.314Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -605,6 +605,54 @@
       "last_pushed_at": "2026-08-11T06:42:29.029Z",
       "language": "python",
       "lines": 9
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-08-12T06:50:24.150Z",
+      "last_pushed_at": "2026-08-12T06:50:24.150Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-08-12T06:55:44.350Z",
+      "last_pushed_at": "2026-08-12T06:55:44.350Z"
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-08-12T06:59:43.096Z",
+      "last_pushed_at": "2026-08-12T06:59:43.096Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-08-12T07:18:26.406Z",
+      "last_pushed_at": "2026-08-12T07:18:26.406Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
