@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:35:37.858Z",
+  "generated_at": "2026-11-11T12:35:39.916Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -786,6 +786,17 @@
       "last_pushed_at": "2026-08-22T09:46:10.638Z",
       "language": "python",
       "lines": 11
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-08-23T06:34:14.452Z",
+      "last_pushed_at": "2026-08-23T06:34:14.452Z"
     }
   }
 }
