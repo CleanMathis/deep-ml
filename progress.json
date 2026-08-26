@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:35:41.866Z",
+  "generated_at": "2026-11-11T12:36:18.895Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -810,6 +810,28 @@
       "last_pushed_at": "2026-08-25T06:54:44.536Z",
       "language": "python",
       "lines": 37
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-08-26T07:48:48.718Z",
+      "last_pushed_at": "2026-08-26T07:48:48.718Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-08-26T07:53:33.613Z",
+      "last_pushed_at": "2026-08-26T07:53:33.613Z"
     }
   }
 }
