@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:36:22.946Z",
+  "generated_at": "2026-11-11T12:36:24.937Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -854,6 +854,19 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-08-31T15:02:07.735Z",
       "last_pushed_at": "2026-08-31T15:02:07.735Z"
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-09-01T15:11:31.322Z",
+      "last_pushed_at": "2026-09-01T15:11:31.322Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
