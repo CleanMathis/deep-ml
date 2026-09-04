@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:36:26.896Z",
+  "generated_at": "2026-11-11T12:36:28.743Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -880,6 +880,45 @@
       "last_pushed_at": "2026-09-02T15:40:56.679Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-09-04T06:06:34.761Z",
+      "last_pushed_at": "2026-09-04T06:06:34.761Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-09-04T06:16:17.250Z",
+      "last_pushed_at": "2026-09-04T06:16:17.250Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-09-04T06:27:15.033Z",
+      "last_pushed_at": "2026-09-04T06:27:15.033Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
