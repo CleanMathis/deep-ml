@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 59 problems · 0 labs · 15 math
+**75** solved · 60 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-04 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-08-22 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-06-15 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-09-08 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-24 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-06-29 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-17 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
