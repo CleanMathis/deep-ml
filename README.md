@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 60 problems · 0 labs · 15 math
+**76** solved · 60 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-11 | [solution](math/0010-matrix-multiplication) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-14 | [solution](math/0014-orthogonality-and-projections) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-14 | [solution](math/0013-solving-linear-systems) |
+| [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-09 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 
 ---
 
