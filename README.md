@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 60 problems · 0 labs · 18 math
+**79** solved · 60 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-14 | [solution](math/0013-solving-linear-systems) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-09 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-11 | [solution](math/0016-eigendecomposition-and-svd) |
+| [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-12 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
 
