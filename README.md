@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 60 problems · 0 labs · 19 math
+**80** solved · 60 problems · 0 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-11 | [solution](math/0010-matrix-multiplication) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-10 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-14 | [solution](math/0014-orthogonality-and-projections) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-14 | [solution](math/0031-regularization-and-generalization) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-14 | [solution](math/0013-solving-linear-systems) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-09 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-11 | [solution](math/0016-eigendecomposition-and-svd) |

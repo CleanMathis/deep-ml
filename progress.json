@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:36:40.561Z",
+  "generated_at": "2026-11-11T12:36:42.479Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -989,6 +989,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-09-12T07:52:04.911Z",
       "last_pushed_at": "2026-09-12T07:52:04.911Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-09-14T15:50:05.035Z",
+      "last_pushed_at": "2026-09-14T15:50:05.035Z"
     }
   }
 }
