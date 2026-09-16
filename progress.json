@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:36:42.479Z",
+  "generated_at": "2026-11-11T12:36:55.627Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1000,6 +1000,32 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-09-14T15:50:05.035Z",
       "last_pushed_at": "2026-09-14T15:50:05.035Z"
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-09-16T07:32:47.114Z",
+      "last_pushed_at": "2026-09-16T07:32:47.114Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-09-16T08:37:43.848Z",
+      "last_pushed_at": "2026-09-16T08:37:43.848Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
