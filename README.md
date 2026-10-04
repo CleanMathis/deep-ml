@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 64 problems · 0 labs · 23 math
+**88** solved · 65 problems · 0 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-02 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-03 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-09 | [solution](problems/0219-derivative-of-softmax) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-04 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-08-19 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-06-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-23 | [solution](problems/0026-implementing-basic-autograd-operations) |
