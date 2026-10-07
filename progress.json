@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:38:02.271Z",
+  "generated_at": "2026-11-11T12:38:20.220Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1122,6 +1122,17 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-10-06T08:36:22.302Z",
       "last_pushed_at": "2026-10-06T08:36:22.302Z"
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-10-07T08:42:49.582Z",
+      "last_pushed_at": "2026-10-07T08:42:49.582Z"
     }
   }
 }
