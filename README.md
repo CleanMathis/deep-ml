@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 72 problems · 0 labs · 25 math
+**98** solved · 73 problems · 0 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-06-15 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-16 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-16 | [solution](problems/1102-select-specific-columns) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-18 | [solution](problems/1104-sort-results-with-order-by) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-06-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-06-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-08-08 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
