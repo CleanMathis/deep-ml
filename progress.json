@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:38.126Z",
+  "generated_at": "2026-11-11T12:39:39.935Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1315,6 +1315,19 @@
       "last_pushed_at": "2026-10-25T09:56:20.828Z",
       "language": "sql",
       "lines": 10
+    },
+    "problem:1112": {
+      "kind": "problem",
+      "id": "1112",
+      "title": "Delete Duplicate Emails Keeping One",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1112",
+      "path": "problems/1112-delete-duplicate-emails-keeping-one",
+      "first_solved_at": "2026-10-26T07:56:46.768Z",
+      "last_pushed_at": "2026-10-26T07:56:46.768Z",
+      "language": "sql",
+      "lines": 9
     }
   }
 }
