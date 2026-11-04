@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:46.823Z",
+  "generated_at": "2026-11-11T12:39:48.549Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1352,6 +1352,17 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-03T10:36:43.031Z",
       "last_pushed_at": "2026-11-03T10:36:43.031Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-11-04T12:24:31.542Z",
+      "last_pushed_at": "2026-11-04T12:24:31.542Z"
     }
   }
 }
