@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 82 problems · 0 labs · 28 math
+**111** solved · 82 problems · 0 labs · 29 math
 
 ![Coverage](./coverage.svg)
 
@@ -116,6 +116,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-11-04 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-23 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-11 | [solution](math/0010-matrix-multiplication) |
+| [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-11-06 | [solution](math/0036-multivariate-gaussians) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-10 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-14 | [solution](math/0014-orthogonality-and-projections) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-14 | [solution](math/0031-regularization-and-generalization) |

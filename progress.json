@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:50.242Z",
+  "generated_at": "2026-11-11T12:39:52.100Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1374,6 +1374,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-05T12:58:11.755Z",
       "last_pushed_at": "2026-11-05T12:58:11.755Z"
+    },
+    "math:36": {
+      "kind": "math",
+      "id": "36",
+      "title": "Multivariate Gaussians",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/36",
+      "path": "math/0036-multivariate-gaussians",
+      "first_solved_at": "2026-11-06T10:43:10.370Z",
+      "last_pushed_at": "2026-11-06T10:43:10.370Z"
     }
   }
 }
