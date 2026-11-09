@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:55.796Z",
+  "generated_at": "2026-11-11T12:39:57.682Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1411,6 +1411,32 @@
       "last_pushed_at": "2026-11-08T11:23:00.439Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1249": {
+      "kind": "problem",
+      "id": "1249",
+      "title": "Monthly Average Product Rating",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1249",
+      "path": "problems/1249-monthly-average-product-rating",
+      "first_solved_at": "2026-11-09T10:58:13.497Z",
+      "last_pushed_at": "2026-11-09T10:58:13.497Z",
+      "language": "sql",
+      "lines": 7
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-11-09T11:00:53.375Z",
+      "last_pushed_at": "2026-11-09T11:00:53.375Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
