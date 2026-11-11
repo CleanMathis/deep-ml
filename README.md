@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**115** solved · 86 problems · 0 labs · 29 math
+**122** solved · 86 problems · 0 labs · 36 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,11 +103,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-11 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-11-11 | [solution](math/0018-descriptive-statistics) |
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-12 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-11 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-11 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-07 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-12 | [solution](math/0019-probability-fundamentals) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-11 | [solution](math/0007-vector-operations) |
+| [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-11-11 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-08-26 | [solution](math/0020-bayes-theorem) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-08-26 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-28 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
@@ -120,7 +124,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-11-04 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-23 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-11 | [solution](math/0010-matrix-multiplication) |
+| [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-11 | [solution](math/0002-multivariate-calculus) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-11-06 | [solution](math/0036-multivariate-gaussians) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-11 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-10 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-14 | [solution](math/0014-orthogonality-and-projections) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-14 | [solution](math/0031-regularization-and-generalization) |
@@ -128,6 +134,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-14 | [solution](math/0013-solving-linear-systems) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-09 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-10-06 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-11 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-11 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-09-30 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-12 | [solution](math/0015-matrix-decompositions-lu-and-qr) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:57.682Z",
+  "generated_at": "2026-11-11T12:39:59.465Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1351,7 +1351,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-03T10:36:43.031Z",
-      "last_pushed_at": "2026-11-03T10:36:43.031Z"
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
     },
     "math:38": {
       "kind": "math",
@@ -1362,7 +1362,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-04T12:24:31.542Z",
-      "last_pushed_at": "2026-11-04T12:24:31.542Z"
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
     },
     "math:32": {
       "kind": "math",
@@ -1373,7 +1373,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-11-05T12:58:11.755Z",
-      "last_pushed_at": "2026-11-05T12:58:11.755Z"
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
     },
     "math:36": {
       "kind": "math",
@@ -1384,7 +1384,7 @@
       "url": "https://www.deep-ml.com/math-problems/36",
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-11-06T10:43:10.370Z",
-      "last_pushed_at": "2026-11-06T10:43:10.370Z"
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
     },
     "problem:1058": {
       "kind": "problem",
@@ -1437,6 +1437,83 @@
       "last_pushed_at": "2026-11-09T11:00:53.375Z",
       "language": "python",
       "lines": 5
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-11-11T12:39:59.463Z",
+      "last_pushed_at": "2026-11-11T12:39:59.463Z"
     }
   }
 }
