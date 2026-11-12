@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:39:59.465Z",
+  "generated_at": "2026-11-12T08:34:58.321Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1514,6 +1514,19 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-11-11T12:39:59.463Z",
       "last_pushed_at": "2026-11-11T12:39:59.463Z"
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-11-12T08:34:56.012Z",
+      "last_pushed_at": "2026-11-12T08:34:56.012Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
