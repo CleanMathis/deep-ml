@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:45:48.534Z",
+  "generated_at": "2026-11-27T08:54:11.926Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1564,6 +1564,17 @@
       "last_pushed_at": "2026-11-25T09:45:46.079Z",
       "language": "python",
       "lines": 12
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-11-27T08:54:06.271Z",
+      "last_pushed_at": "2026-11-27T08:54:06.271Z"
     }
   }
 }
